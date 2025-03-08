@@ -1,0 +1,7 @@
+{
+  "country": "USA",
+  "date": "2024-09-01",
+  "confirmed_cases": { "total": 10000, "new": 200 },
+  "deaths": { "total": 500, "new": 10 },
+  "recovered": { "total": 9000, "new": 180 }
+}

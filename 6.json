@@ -1,0 +1,7 @@
+{
+        "country": "Germany",
+        "date": "2024-09-01",
+        "confirmed_cases": { "total": 3000, "new": 60 },
+        "deaths": { "total": 100, "new": 2 },
+        "recovered": { "total": 2800, "new": 55 }
+    }

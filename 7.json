@@ -1,0 +1,7 @@
+{
+        "country": "Japan",
+        "date": "2024-09-01",
+        "confirmed_cases": { "total": 2000, "new": 40 },
+        "deaths": { "total": 50, "new": 1 },
+        "recovered": { "total": 1800, "new": 35 }
+    }

@@ -1,0 +1,12 @@
+Name,Date,Description,Amount,Category
+John,01-11-2024,Groceries,50,groceries
+Alice,01-11-2024,Electricity Bill,100,utilities
+Bob,02-11-2024,Fuel,30,utilities
+Jane,02-11-2024,Dinner,500,groceries
+John,03-11-2024,Transport,20,utilities
+Alice,03-11-2024,Lunch,15,groceries
+Jane,04-11-2024,Snacks,10,groceries
+Bob,04-11-2024,Medicine,40,utilities
+John,05-11-2024,Books,25,utilities
+Alice,05-11-2024,Utilities,120,utilities
+Alice,02-11-2024,movietickets,500.0,entertainment

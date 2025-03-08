@@ -1,0 +1,7 @@
+{
+        "country": "India",
+        "date": "2024-09-01",
+        "confirmed_cases": { "total": 5000, "new": 100 },
+        "deaths": { "total": 200, "new": 5 },
+        "recovered": { "total": 4500, "new": 90 }
+    }

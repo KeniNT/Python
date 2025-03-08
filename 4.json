@@ -1,0 +1,7 @@
+{
+        "country": "UK",
+        "date": "2024-09-01",
+        "confirmed_cases": { "total": 4000, "new": 80 },
+        "deaths": { "total": 150, "new": 3 },
+        "recovered": { "total": 3700, "new": 75 }
+    }

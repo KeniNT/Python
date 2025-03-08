@@ -1,0 +1,7 @@
+{
+        "country": "Italy",
+        "date": "2024-09-01",
+        "confirmed_cases": { "total": 3500, "new": 70 },
+        "deaths": { "total": 120, "new": 4 },
+        "recovered": { "total": 3200, "new": 65 }
+    }

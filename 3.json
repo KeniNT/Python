@@ -1,0 +1,7 @@
+{
+        "country": "Brazil",
+        "date": "2024-09-01",
+        "confirmed_cases": { "total": 7000, "new": 150 },
+        "deaths": { "total": 300, "new": 8 },
+        "recovered": { "total": 6400, "new": 140 }
+    }

@@ -1,0 +1,7 @@
+{
+        "country": "Australia",
+        "date": "2024-09-01",
+        "confirmed_cases": { "total": 1500, "new": 30 },
+        "deaths": { "total": 40, "new": 1 },
+        "recovered": { "total": 1400, "new": 28 }
+    }

@@ -1,0 +1,30 @@
+{
+    "COVID-19 Statistics by Country": [
+        "USA: Confirmed: 10000, Deaths: 500, Recovered: 9000, Active: 500",
+        "Canada: Confirmed: 2500, Deaths: 90, Recovered: 2300, Active: 110",
+        "India: Confirmed: 5000, Deaths: 200, Recovered: 4500, Active: 300",
+        "Brazil: Confirmed: 7000, Deaths: 300, Recovered: 6400, Active: 300",
+        "UK: Confirmed: 4000, Deaths: 150, Recovered: 3700, Active: 150",
+        "Russia: Confirmed: 6000, Deaths: 250, Recovered: 5500, Active: 250",
+        "Germany: Confirmed: 3000, Deaths: 100, Recovered: 2800, Active: 100",
+        "Japan: Confirmed: 2000, Deaths: 50, Recovered: 1800, Active: 150",
+        "Australia: Confirmed: 1500, Deaths: 40, Recovered: 1400, Active: 60",
+        "Italy: Confirmed: 3500, Deaths: 120, Recovered: 3200, Active: 180"
+    ],
+    "Top 5 Countries with Highest Confirmed Cases": [
+        "USA: 10000",
+        "Brazil: 7000",
+        "Russia: 6000",
+        "India: 5000",
+        "UK: 4000"
+    ],
+    "Top 5 Countries with Lowest Confirmed Cases": [
+        "Italy: 3500",
+        "Germany: 3000",
+        "Canada: 2500",
+        "Japan: 2000",
+        "Australia: 1500"
+    ]
+}
+
+
